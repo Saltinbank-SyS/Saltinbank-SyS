@@ -3,8 +3,8 @@ About me  i  guess ...
                            ### Hi there 👋 And now your are ASKING : WTF iam doing HERE ! ###
                         Regrouping all the tools i needed, i want to test, it is basically my daily toolbox for
                                  CTF, DEV, DEV SEC OPS (omg) or RED OPS, and for my other buddies : THA BLUETEAM 
-                    from that synergy make your own rules :in purple teaming (white, yellow, green team left tha channel)
-                            Ok add OSINT, OFFENSIVE RECON, DFIR, FORENSICS : and many more; because we love animalz ...
+                    from that synergy make your own rules: in purple teaming (white, yellow, green team left tha channel)
+                            Ok >>>  Add OSINT, OFFENSIVE RECON (REDHAT), DFIR, FORENSICS : and many more; because we love "animalz" ...
                       
 <!--
 **Saltinbank-SyS/Saltinbank-SyS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
